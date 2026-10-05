@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "dependabot/npm_and_yarn/vue/minimist-1.2.6",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/vue/minimist-1.2.6": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "dependabot/npm_and_yarn/vue/minimist-1.2.6",
+    "origin"
+  ]
+}
